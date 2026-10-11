@@ -101,9 +101,10 @@ Evaluated the suitability of the selected methodology and considered how the pro
 
 ---
 
-## Detailed Feasibility Study
+## Detailed Feasibility Study 
 
-A comprehensive feasibility study was prepared to assess the viability of the proposed web-based grocery ordering and delivery management system.
+A comprehensive feasibility study was prepared to assess the viability of the proposed web-based grocery ordering and delivery management system. 
+![Feasibility Study Report] (Feasibility-Study/Fresh-Grocers-Feasibility-Study-Report.pdf)
 
 ### Operational Feasibility
 
